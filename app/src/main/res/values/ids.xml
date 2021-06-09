@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextReview" type="id" />
+    <item name="editTextRating" type="id" />
+    <item name="editTextActors" type="id" />
+    <item name="editTextDirector" type="id" />
+    <item name="editTextYear" type="id" />
+    <item name="editTextSearch" type="id" />
+    <item name="textViewReview" type="id" />
+    <item name="textViewRating" type="id" />
+    <item name="textViewList" type="id" />
+    <item name="textViewDirector" type="id" />
+    <item name="textViewYear" type="id" />
+    <item name="textViewTitle" type="id" />
+    <item name="buttonSave" type="id" />
+</resources>

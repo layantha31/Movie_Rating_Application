@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CourseWork02</string>
+    <string name="todo">TODO</string>
+    <string name="register_movie">Register Movie</string>
+    <string name="display_movies">Display Movies</string>
+    <string name="edit_movies">Edit Movies</string>
+    <string name="favourites">Favourites</string>
+    <string name="ratings">Ratings</string>
+    <string name="title_of_the_movie">Title of the movie</string>
+    <string name="the_director">The director</string>
+    <string name="list_of_actors">List of actors</string>
+    <string name="rating">Rating</string>
+    <string name="review">Review</string>
+    <string name="the_year">The Year</string>
+    <string name="save">Save</string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="search">Search</string>
+    <string name="list_of_actors_actress">list_of_actors/actress</string>
+    <string name="actors_actress">Actors/Actress</string>
+    <string name="the_directors">The Director</string>
+    <string name="title_of_movie">Title Of The Movie</string>
+    <string name="update">Update</string>
+    <string name="favourite">Favourite</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="movie_name">Movie name:</string>
+    <string name="get_image">Get Image</string>
+    <string name="image_is_here">Image is here..</string>
+</resources>
